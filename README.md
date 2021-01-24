@@ -12,6 +12,7 @@ Jupyter files:
 * ResultAnalysis.ipynb: Generates a network graph from the Species Classifier API predictions and calculates its accuracy and makes some graphs of the relation between accuracy and other features of a species.
 
 Other files:
+* Accuracies.txt: Accuracy of the classification, rarity, number of annual observations and number of observed individuals of each of the species from BirdsForClassification.txt.
 * BirdIDs.txt: List of the 298 bird species with their ID on Waarneming.nl.
 * BirdInfo.txt: List of the 298 bird species that occur in the Netherlands according to Sovon in 2020.
 * BirdInfo.xlsx: From [Sovon](https://www.sovon.nl/soorten), Excel file with all breeding and non-breeding birds in the Netherlands in 2020.
