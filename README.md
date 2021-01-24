@@ -17,7 +17,7 @@ Other files:
 * BirdInfo.txt: List of the 298 bird species that occur in the Netherlands according to Sovon in 2020.
 * BirdInfo.xlsx: From [Sovon](https://www.sovon.nl/soorten), Excel file with all breeding and non-breeding birds in the Netherlands in 2020.
 * BirdsForClassification.txt: Same as BirdIDs.txt, but only the subset of species that the Species Classifier API can recognise.
-* BirdSpeciesNetwork.html: **Interactive network** of the predicted bird species. However, GitHub does not support viewing HTML files. Instead, do 'Run All' in ResultAnalysis.ipynb to view it.
+* BirdSpeciesNetwork.html: **Interactive network** of the predicted bird species. However, GitHub does not support viewing HTML files. Instead, download the repo and do 'Run All' in ResultAnalysis.ipynb to view it.
 * PhotoIDs.txt: Contains 24 IDs of a photo for each of the species from BirdsForClassification.txt. The images can be viewed on https://old.waarneming.nl/fotonew/$.jpg, where the $ should be replaced with an ID, for example https://old.waarneming.nl/fotonew/9/28774829.jpg.
 * PredictedSpecies.txt: Contains the image ID, correct species, and the top-5 predictions of the Species Classifier API.
 * SpeciesExampleImages.txt: A examplar image for each of the species from BirdsForClassification.txt, retrieved from the [Netherlands Biodiversity API](https://bioportal.naturalis.nl/api)
