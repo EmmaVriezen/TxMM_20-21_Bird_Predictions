@@ -1,0 +1,182 @@
+Scientific,Accuracy,Rarity,Observations,Individuals
+Acanthis flammea,0.62,quite common,26064,372479
+Accipiter gentilis,0.25,quite common,239254,258425
+Accipiter nisus,0.71,common,375564,429298
+Actitis hypoleucos,0.83,quite common,236519,533606
+Aegithalos caudatus,1.0,common,286293,1205231
+Alauda arvensis,0.5,common,324883,2163424
+Alca torda,0.12,quite common,17047,59094
+Alcedo atthis,0.92,quite common,383124,428549
+Anas acuta,0.83,common,177416,1795047
+Anas crecca,0.88,common,373388,11435391
+Anas platyrhynchos,0.67,common,650658,19204743
+Anser albifrons,0.79,common,341251,108014196
+Anser anser,0.67,common,690134,49752891
+Anthus pratensis,0.92,common,372377,2617238
+Apus apus,0.67,common,289825,2554926
+Ardea alba,0.75,quite common,838560,2210980
+Ardea cinerea,0.83,common,679403,1487605
+Ardea purpurea,0.88,quite common,82401,140993
+Arenaria interpres,0.79,common,145776,2260031
+Asio flammeus,0.54,quite common,38521,60668
+Asio otus,0.71,quite common,85763,239427
+Athene noctua,0.71,quite common,98120,114461
+Aythya ferina,0.42,common,242268,10571101
+Aythya fuligula,0.33,common,538364,22915918
+Aythya marila,0.54,quite common,42941,6662383
+Bombycilla garrulus,0.92,rare,34387,353452
+Branta canadensis,0.75,common,257592,4779831
+Branta leucopsis,0.75,common,309483,91684663
+Bubulcus ibis,0.79,rare,21296,35578
+Bucephala clangula,0.88,quite common,191449,1671787
+Buteo buteo,0.62,common,1218272,2012764
+Buteo lagopus,0.38,rare,44433,44433
+Calcarius lapponicus,0.71,quite common,27369,89045
+Calidris alba,0.92,quite common,98449,3285885
+Calidris alpina,0.58,common,193467,24761952
+Calidris canutus,0.62,quite common,74500,7387366
+Calidris ferruginea,0.17,quite common,42433,523248
+Calidris maritima,0.96,quite common,47170,265501
+Calidris melanotos,0.83,rare,10034,11268
+Calidris pugnax,0.29,quite common,226455,5082388
+Carduelis carduelis,0.75,common,436348,2815989
+Cepphus grylle,0.88,very rare,8190,8190
+Charadrius dubius,0.33,quite common,239432,565120
+Charadrius hiaticula,0.33,common,166951,1652933
+Chlidonias niger,0.71,quite common,101810,4277270
+Chloris chloris,0.79,common,338269,2133421
+Chroicocephalus ridibundus,0.96,common,548378,40511251
+Ciconia ciconia,0.75,quite common,355888,1115694
+Cinclus cinclus,1.0,rare,10150,10687
+Circus aeruginosus,0.58,common,424871,602850
+Circus cyaneus,0.67,quite common,254776,324399
+Clangula hyemalis,0.54,rare,29705,57511
+Coccothraustes coccothraustes,0.88,quite common,176217,386345
+Columba palumbus,0.96,common,550034,8366058
+Corvus corax,0.67,quite common,97833,165121
+Corvus cornix,0.88,rare,27523,68893
+Corvus corone,0.5,common,558508,2237752
+Corvus frugilegus,0.75,common,147146,3036260
+Cuculus canorus,0.5,quite common,245195,282030
+Cyanistes caeruleus,1.0,common,433737,1350979
+Cygnus cygnus,0.71,quite common,73434,490296
+Cygnus olor,0.58,common,489249,4970296
+Delichon urbicum,0.29,common,213894,1919800
+Dendrocopos major,0.83,common,553678,688590
+Egretta garzetta,0.83,quite common,151034,309859
+Emberiza calandra,0.52,rare,10939,43265
+Emberiza citrinella,0.96,common,233554,576965
+Emberiza schoeniclus,0.29,common,376517,729661
+Eremophila alpestris,0.75,quite common,23655,272294
+Erithacus rubecula,0.96,common,527499,746681
+Falco columbarius,0.33,quite common,71756,82844
+Falco peregrinus,0.88,quite common,294693,342853
+Falco subbuteo,0.58,quite common,178456,239054
+Falco tinnunculus,0.96,common,659406,840498
+Ficedula hypoleuca,0.54,quite common,90791,116176
+Fratercula arctica,0.33,rare,2536,2915
+Fringilla coelebs,0.92,common,624374,24798903
+Fringilla montifringilla,0.88,quite common,134761,1033391
+Fulica atra,0.83,common,584783,16717868
+Fulmarus glacialis,0.33,quite common,14123,238326
+Galerida cristata,0.38,very rare,11858,18317
+Gallinago gallinago,0.04,common,311396,2383950
+Gallinula chloropus,0.83,common,314230,851271
+Garrulus glandarius,0.96,common,361797,657170
+Gavia immer,0.83,rare,20135,22059
+Gavia stellata,0.38,quite common,82162,670427
+Gelochelidon nilotica,0.04,rare,8014,28571
+Grus grus,0.88,rare,80526,3980071
+Haematopus ostralegus,0.79,common,547439,21482580
+Himantopus himantopus,0.83,rare,40636,92086
+Hirundo rustica,0.67,common,445626,4179697
+Hydroprogne caspia,0.75,quite common,25778,81701
+Lanius collurio,0.79,quite common,38555,60545
+Lanius excubitor,0.67,quite common,88788,91821
+Larus argentatus,0.58,common,338578,3165100
+Larus canus,0.42,common,256487,3345728
+Larus fuscus,0.54,common,305580,4018020
+Larus glaucoides,0.33,rare,14096,14096
+Larus hyperboreus,0.21,rare,14391,16628
+Larus marinus,0.71,common,171007,987301
+Larus michahellis,0.29,quite common,57029,87771
+Limosa lapponica,0.58,quite common,92388,12079126
+Limosa limosa,0.58,common,357231,12984779
+Loxia curvirostra,0.58,quite common,89004,610938
+Luscinia svecica,0.42,quite common,198012,255123
+Melanitta fusca,0.46,quite common,32596,189546
+Mergus merganser,0.83,quite common,189958,982671
+Mergus serrator,0.79,quite common,112873,1205016
+Merops apiaster,0.62,rare,6880,31889
+Milvus migrans,0.88,quite common,23904,28799
+Milvus milvus,0.79,quite common,50675,59083
+Morus bassanus,0.96,quite common,80367,1177563
+Motacilla alba,0.75,common,484959,1716583
+Motacilla cinerea,0.96,quite common,195115,263689
+Motacilla flava,0.54,common,298556,1875803
+Muscicapa striata,0.54,quite common,89880,127725
+Netta rufina,0.83,quite common,56227,368376
+Numenius arquata,0.54,common,384755,16835533
+Numenius phaeopus,0.79,quite common,105447,771037
+Nycticorax nycticorax,0.96,rare,11610,16114
+Oenanthe oenanthe,1.0,quite common,242671,533835
+Pandion haliaetus,0.88,quite common,84115,96470
+Parus major,1.0,common,588050,1550758
+Passer domesticus,0.79,common,379328,2346032
+Passer montanus,0.96,common,160055,1100637
+Periparus ater,0.92,common,108607,447317
+Phalacrocorax carbo,0.75,common,565007,12605336
+Phalaropus fulicarius,0.46,rare,12113,14106
+Phalaropus lobatus,0.92,rare,19283,29091
+Phoenicurus ochruros,0.92,quite common,165323,195917
+Phoenicurus phoenicurus,0.71,common,164671,205222
+Phylloscopus collybita,0.96,common,609892,835606
+Pica pica,0.83,common,443692,1016872
+Picus viridis,0.88,quite common,379315,407314
+Platalea leucorodia,0.62,common,425332,3631762
+Plectrophenax nivalis,1.0,quite common,42304,462724
+Plegadis falcinellus,0.5,rare,16412,28610
+Pluvialis squatarola,0.75,quite common,95019,3619274
+Podiceps auritus,0.71,quite common,42960,108612
+Podiceps cristatus,0.92,common,453722,2361320
+Podiceps grisegena,0.83,quite common,38965,59715
+Podiceps nigricollis,0.83,quite common,105505,545149
+Prunella modularis,0.88,common,321659,431864
+Pyrrhula pyrrhula,0.92,quite common,177081,318397
+Recurvirostra avosetta,0.79,quite common,240589,5006365
+Regulus ignicapilla,0.54,quite common,112257,150583
+Regulus regulus,0.79,common,236363,648572
+Riparia riparia,0.38,quite common,134393,1631667
+Rissa tridactyla,0.29,quite common,39664,2524329
+Saxicola rubetra,0.96,quite common,95091,193123
+Saxicola rubicola,0.83,quite common,432889,694600
+Serinus serinus,0.54,rare,21363,38610
+Sitta europaea,0.88,common,276314,378999
+Somateria mollissima,0.92,quite common,109118,3120913
+Spinus spinus,0.75,quite common,213838,2405663
+Stercorarius parasiticus,0.12,quite common,34923,81684
+Stercorarius pomarinus,0.42,quite common,12374,16065
+Sterna hirundo,0.58,common,278824,5990905
+Sterna paradisaea,0.33,quite common,24383,180965
+Streptopelia decaocto,0.92,common,256584,746107
+Streptopelia turtur,0.78,quite common,59936,142043
+Sturnus vulgaris,0.92,common,462235,73133650
+Sylvia atricapilla,0.83,common,421157,553118
+Tachybaptus ruficollis,0.5,common,358777,941284
+Tadorna ferruginea,0.5,quite common,61566,646916
+Tadorna tadorna,0.75,common,421920,10126979
+Thalasseus sandvicensis,0.25,quite common,102864,5787159
+Tringa glareola,0.58,quite common,97768,328878
+Tringa nebularia,0.71,quite common,206999,1045075
+Tringa ochropus,0.5,quite common,238700,473254
+Tringa totanus,1.0,common,368136,2640826
+Troglodytes troglodytes,0.29,common,487118,630485
+Turdus merula,0.92,common,659181,1418507
+Turdus philomelos,0.96,common,362468,3036262
+Turdus pilaris,0.79,common,262818,12956203
+Turdus viscivorus,0.67,common,167768,301770
+Tyto alba,0.75,quite common,46936,55312
+Upupa epops,0.88,rare,8363,8650
+Uria aalge,0.62,quite common,43345,83648
+Vanellus vanellus,0.79,common,650826,52127957
+Xema sabini,0.12,rare,4471,4471

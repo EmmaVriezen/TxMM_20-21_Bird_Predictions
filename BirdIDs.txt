@@ -1,0 +1,299 @@
+Species,Scientific,ID
+Dodaars,Tachybaptus ruficollis,2
+Fuut,Podiceps cristatus,91
+Roodhalsfuut,Podiceps grisegena,367
+Geoorde Fuut,Podiceps nigricollis,3
+Aalscholver,Phalacrocorax carbo,58
+Roerdomp,Botaurus stellaris,1
+Woudaap,Ixobrychus minutus,4
+Kwak,Nycticorax nycticorax,5
+Kleine Zilverreiger,Egretta garzetta,132
+Grote Zilverreiger,Ardea alba,115
+Blauwe Reiger,Ardea cinerea,64
+Purperreiger,Ardea purpurea,6
+Ooievaar,Ciconia ciconia,7
+Lepelaar,Platalea leucorodia,8
+Knobbelzwaan,Cygnus olor,136
+Kolgans,Anser albifrons,139
+Grauwe Gans,Anser anser,104
+Grote Canadese Gans,Branta canadensis,110
+Brandgans,Branta leucopsis,79
+Casarca,Tadorna ferruginea,236
+Bergeend,Tadorna tadorna,61
+Smient,Mareca penelope,176
+Krakeend,Mareca strepera,142
+Wintertaling,Anas crecca,200
+Wilde Eend,Anas platyrhynchos,198
+Pijlstaart,Anas acuta,160
+Zomertaling,Spatula querquedula,355
+Slobeend,Spatula clypeata,175
+Krooneend,Netta rufina,10
+Tafeleend,Aythya ferina,184
+Witoogeend,Aythya nyroca,772
+Kuifeend,Aythya fuligula,144
+Eider,Somateria mollissima,11
+Brilduiker,Bucephala clangula,80
+Middelste Zaagbek,Mergus serrator,292
+Wespendief,Pernis apivorus,349
+Zwarte Wouw,Milvus migrans,364
+Rode Wouw,Milvus milvus,12
+Zeearend,Haliaeetus albicilla,353
+Bruine Kiekendief,Circus aeruginosus,81
+Blauwe Kiekendief,Circus cyaneus,13
+Grauwe Kiekendief,Circus pygargus,14
+Havik,Accipiter gentilis,117
+Sperwer,Accipiter nisus,178
+Buizerd,Buteo buteo,82
+Torenvalk,Falco tinnunculus,188
+Boomvalk,Falco subbuteo,74
+Slechtvalk,Falco peregrinus,325
+Korhoen,Lyrurus tetrix,15
+Patrijs,Perdix perdix,16
+Kwartel,Coturnix coturnix,287
+Waterral,Rallus aquaticus,348
+Porseleinhoen,Porzana porzana,17
+Klein Waterhoen,Zapornia parva,276
+Kleinst Waterhoen,Zapornia pusilla,277
+Kwartelkoning,Crex crex,18
+Waterhoen,Gallinula chloropus,195
+Meerkoet,Fulica atra,149
+Kraanvogel,Grus grus,19
+Scholekster,Haematopus ostralegus,173
+Steltkluut,Himantopus himantopus,332
+Kluut,Recurvirostra avosetta,20
+Kleine Plevier,Charadrius dubius,761
+Bontbekplevier,Charadrius hiaticula,22
+Strandplevier,Charadrius alexandrinus,23
+Kievit,Vanellus vanellus,129
+Bonte Strandloper,Calidris alpina,68
+Kemphaan,Calidris pugnax,24
+Watersnip,Gallinago gallinago,25
+Houtsnip,Scolopax rusticola,121
+Grutto,Limosa limosa,26
+Wulp,Numenius arquata,203
+Tureluur,Tringa totanus,27
+Oeverloper,Actitis hypoleucos,154
+Zwartkopmeeuw,Ichthyaetus melanocephalus,363
+Dwergmeeuw,Hydrocoloeus minutus,84
+Kokmeeuw,Chroicocephalus ridibundus,138
+Stormmeeuw,Larus canus,183
+Kleine Mantelmeeuw,Larus fuscus,131
+Zilvermeeuw,Larus argentatus,205
+Grote Mantelmeeuw,Larus marinus,112
+Drieteenmeeuw,Rissa tridactyla,241
+Grote Stern,Thalasseus sandvicensis,28
+Visdief,Sterna hirundo,29
+Noordse Stern,Sterna paradisaea,30
+Dwergstern,Sternula albifrons,31
+Witwangstern,Chlidonias hybrida,762
+Zwarte Stern,Chlidonias niger,32
+Holenduif,Columba oenas,119
+Houtduif,Columba palumbus,120
+Turkse Tortel,Streptopelia decaocto,191
+Zomertortel,Streptopelia turtur,342
+Koekoek,Cuculus canorus,137
+Kerkuil,Tyto alba,33
+Oehoe,Bubo bubo,300
+Steenuil,Athene noctua,34
+Bosuil,Strix aluco,77
+Ransuil,Asio otus,310
+Velduil,Asio flammeus,35
+Ruigpootuil,Aegolius funereus,974
+Nachtzwaluw,Caprimulgus europaeus,36
+Gierzwaluw,Apus apus,97
+IJsvogel,Alcedo atthis,37
+Bijeneter,Merops apiaster,1386
+Hop,Upupa epops,38
+Draaihals,Jynx torquilla,39
+Groene Specht,Picus viridis,40
+Zwarte Specht,Dryocopus martius,759
+Grote Bonte Specht,Dendrocopos major,109
+Middelste Bonte Specht,Dendrocoptes medius,290
+Kleine Bonte Specht,Dryobates minor,271
+Kuifleeuwerik,Galerida cristata,41
+Boomleeuwerik,Lullula arborea,72
+Veldleeuwerik,Alauda arvensis,192
+Oeverzwaluw,Riparia riparia,155
+Boerenzwaluw,Hirundo rustica,65
+Huiszwaluw,Delichon urbicum,123
+Duinpieper,Anthus campestris,43
+Boompieper,Anthus trivialis,73
+Graspieper,Anthus pratensis,103
+Gele Kwikstaart,Motacilla flava,95
+Engelse Kwikstaart,Motacilla flava flavissima,365
+Grote Gele Kwikstaart,Motacilla cinerea,756
+Witte Kwikstaart,Motacilla alba,202
+Rouwkwikstaart,Motacilla alba yarrellii,319
+Winterkoning,Troglodytes troglodytes,199
+Heggenmus,Prunella modularis,118
+Roodborst,Erithacus rubecula,168
+Nachtegaal,Luscinia megarhynchos,295
+Blauwborst,Luscinia svecica,62
+Zwarte Roodstaart,Phoenicurus ochruros,356
+Gekraagde Roodstaart,Phoenicurus phoenicurus,94
+Paapje,Saxicola rubetra,44
+Roodborsttapuit,Saxicola rubicola,45
+Tapuit,Oenanthe oenanthe,46
+Merel,Turdus merula,150
+Kramsvogel,Turdus pilaris,143
+Zanglijster,Turdus philomelos,204
+Grote Lijster,Turdus viscivorus,111
+Cetti's Zanger,Cettia cetti,237
+Graszanger,Cisticola juncidis,1111
+Sprinkhaanzanger,Locustella naevia,330
+Snor,Locustella luscinioides,47
+Rietzanger,Acrocephalus schoenobaenus,48
+Bosrietzanger,Acrocephalus palustris,75
+Kleine Karekiet,Acrocephalus scirpaceus,130
+Grote Karekiet,Acrocephalus arundinaceus,49
+Spotvogel,Hippolais icterina,179
+Orpheusspotvogel,Hippolais polyglotta,302
+Braamsluiper,Curruca curruca,78
+Grasmus,Curruca communis,102
+Tuinfluiter,Sylvia borin,189
+Zwartkop,Sylvia atricapilla,213
+Fluiter,Phylloscopus sibilatrix,90
+Tjiftjaf,Phylloscopus collybita,186
+Fitis,Phylloscopus trochilus,89
+Goudhaan,Regulus regulus,99
+Vuurgoudhaan,Regulus ignicapilla,347
+Grauwe Vliegenvanger,Muscicapa striata,105
+Bonte Vliegenvanger,Ficedula hypoleuca,69
+Baardman,Panurus biarmicus,50
+Staartmees,Aegithalos caudatus,181
+Glanskop,Poecile palustris,98
+Matkop,Poecile montanus,148
+Kuifmees,Lophophanes cristatus,145
+Zwarte Mees,Periparus ater,209
+Pimpelmees,Cyanistes caeruleus,161
+Koolmees,Parus major,140
+Boomklever,Sitta europaea,70
+Kortsnavelboomkruiper,Certhia familiaris macrodactyla,1204
+Boomkruiper,Certhia brachydactyla,71
+Buidelmees,Remiz pendulinus,1206
+Wielewaal,Oriolus oriolus,350
+Grauwe Klauwier,Lanius collurio,51
+Klapekster,Lanius excubitor,52
+Gaai,Garrulus glandarius,92
+Ekster,Pica pica,87
+Kauw,Coloeus monedula,126
+Huiskraai,Corvus splendens,261
+Roek,Corvus frugilegus,167
+Zwarte Kraai,Corvus corone,208
+Bonte Kraai,Corvus cornix,67
+Raaf,Corvus corax,54
+Spreeuw,Sturnus vulgaris,180
+Huismus,Passer domesticus,122
+Ringmus,Passer montanus,166
+Vink,Fringilla coelebs,193
+Keep,Fringilla montifringilla,127
+Europese Kanarie,Serinus serinus,248
+Groenling,Chloris chloris,261771
+Putter,Carduelis carduelis,162
+Sijs,Spinus spinus,174
+Kneu,Linaria cannabina,135
+Kleine Barmsijs,Acanthis cabaret,763
+Kruisbek,Loxia curvirostra,284
+Grote Kruisbek,Loxia pytyopsittacus,1272
+Roodmus,Carpodacus erythrinus,315
+Goudvink,Pyrrhula pyrrhula,101
+Appelvink,Coccothraustes coccothraustes,59
+Geelgors,Emberiza citrinella,55
+Ortolaan,Emberiza hortulana,56
+Rietgors,Emberiza schoeniclus,164
+Grauwe Gors,Emberiza calandra,57
+Roodkeelduiker,Gavia stellata,314
+Parelduiker,Gavia arctica,305
+IJsduiker,Gavia immer,263
+Kuifduiker,Podiceps auritus,286
+Noordse Stormvogel,Fulmarus glacialis,298
+Grauwe Pijlstormvogel,Ardenna grisea,1388
+Noordse Pijlstormvogel,Puffinus puffinus,297
+Vale Pijlstormvogel,Puffinus mauretanicus,369
+Stormvogeltje,Hydrobates pelagicus,335
+Vaal Stormvogeltje,Oceanodroma leucorhoa,343
+Jan-van-gent,Morus bassanus,267
+Kuifaalscholver,Phalacrocorax aristotelis,285
+Koereiger,Bubulcus ibis,360
+Zwarte Ooievaar,Ciconia nigra,362
+Zwarte Ibis,Plegadis falcinellus,853
+Kleine Zwaan,Cygnus columbianus bewickii,274
+Wilde Zwaan,Cygnus cygnus,351
+Taigarietgans,Anser fabalis,338
+Toendrarietgans,Anser serrirostris,341
+Kleine Rietgans,Anser brachyrhynchus,1384
+Dwerggans,Anser erythropus,244
+Sneeuwgans,Anser caerulescens,327
+Zwartbuikrotgans,Branta bernicla bernicla,243792
+Witbuikrotgans,Branta bernicla hrota,769
+Roodhalsgans,Branta ruficollis,313
+Topper,Aythya marila,187
+IJseend,Clangula hyemalis,264
+Zwarte Zee-eend,Melanitta nigra,357
+Grote Zee-eend,Melanitta fusca,258
+Nonnetje,Mergellus albellus,153
+Grote Zaagbek,Mergus merganser,114
+Ruigpootbuizerd,Buteo lagopus,321
+Visarend,Pandion haliaetus,346
+Roodpootvalk,Falco vespertinus,316
+Smelleken,Falco columbarius,326
+Griel,Burhinus oedicnemus,21
+Morinelplevier,Charadrius morinellus,294
+Goudplevier,Pluvialis apricaria,100
+Zilverplevier,Pluvialis squatarola,206
+Kanoet,Calidris canutus,125
+Drieteenstrandloper,Calidris alba,83
+Kleine Strandloper,Calidris minuta,133
+Temmincks Strandloper,Calidris temminckii,339
+Gestreepte Strandloper,Calidris melanotos,370
+Krombekstrandloper,Calidris ferruginea,283
+Paarse Strandloper,Calidris maritima,158
+Breedbekstrandloper,Calidris falcinellus,905
+Bokje,Lymnocryptes minimus,231
+Rosse Grutto,Limosa lapponica,170
+Regenwulp,Numenius phaeopus,163
+Zwarte Ruiter,Tringa erythropus,210
+Poelruiter,Tringa stagnatilis,307
+Groenpootruiter,Tringa nebularia,108
+Witgat,Tringa ochropus,201
+Bosruiter,Tringa glareola,76
+Steenloper,Arenaria interpres,182
+Grauwe Franjepoot,Phalaropus lobatus,253
+Rosse Franjepoot,Phalaropus fulicarius,318
+Middelste Jager,Stercorarius pomarinus,291
+Kleine Jager,Stercorarius parasiticus,273
+Kleinste Jager,Stercorarius longicaudus,278
+Grote Jager,Stercorarius skua,256
+Vorkstaartmeeuw,Xema sabini,1387
+Pontische Meeuw,Larus cachinnans,937
+Geelpootmeeuw,Larus michahellis,250
+Kleine Burgemeester,Larus glaucoides,272
+Grote Burgemeester,Larus hyperboreus,255
+Lachstern,Gelochelidon nilotica,368
+Reuzenstern,Hydroprogne caspia,311
+Witvleugelstern,Chlidonias leucopterus,361
+Zeekoet,Uria aalge,354
+Alk,Alca torda,215
+Zwarte Zeekoet,Cepphus grylle,1538
+Kleine Alk,Alle alle,270
+Papegaaiduiker,Fratercula arctica,304
+Strandleeuwerik,Eremophila alpestris,336
+Grote Pieper,Anthus richardi,757
+Roodkeelpieper,Anthus cervinus,755
+Waterpieper,Anthus spinoletta,196
+Oeverpieper,Anthus petrosus,358
+Noordse Kwikstaart,Motacilla flava thunbergi,1026
+Pestvogel,Bombycilla garrulus,306
+Waterspreeuw,Cinclus cinclus,84884
+Beflijster,Turdus torquatus,226
+Koperwiek,Turdus iliacus,141
+Waterrietzanger,Acrocephalus paludicola,1129
+Sperwergrasmus,Curruca nisoria,371
+Bladkoning,Phylloscopus inornatus,227
+Kleine Vliegenvanger,Ficedula parva,1182
+Taigaboomkruiper,Certhia familiaris,337
+Frater,Linaria flavirostris,249
+Grote Barmsijs,Acanthis flammea,223
+IJsgors,Calcarius lapponicus,265
+Sneeuwgors,Plectrophenax nivalis,329
+Dwerggors,Emberiza pusilla,245
